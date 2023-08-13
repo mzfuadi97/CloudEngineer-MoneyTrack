@@ -1,0 +1,8 @@
+Project ID : submission-mgce-mzfuadi97
+frontend : http://frontend.submission-mgce-mzfuadi97.as.r.appspot.com/index.php/records
+backend : https://backend-dot-submission-mgce-mzfuadi97.as.r.appspot.com
+
+IP Cloud SQL :  34.126.164.124
+username : root 
+pass : admin
+database : submission2
