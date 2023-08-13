@@ -9,7 +9,7 @@ Username dicoding: mzfuadi97
 Aplikasi yang dikembangkan memiliki spesifikasi seperti berikut:
 
 - Front-End Web ditulis menggunakan PHP dengan framework CodeIgniter versi 3.1.10.
-- Back-End API ditulis menggunakan Node.js.
+- Back-End API ditulis menggunakan Node.js. |
 
 | Solusi Cloud | Aplikasi ini akan memiliki fokus utama pada pencatatan pemasukan dan pengeluaran. Selain itu, pengguna akan diberikan kemampuan untuk melampirkan gambar sebagai bagian dari setiap pencatatan, seperti struk belanja atau slip gaji. Untuk mengelola gambar-gambar ini secara efisien, kami akan menyimpannya di object storage, dan tautan URL ke setiap gambar akan diintegrasikan dalam basis data. Dengan menggunakan skema data yang telah ditentukan, kami akan memastikan konsistensi dalam penyimpanan dan pengelolaan data ini. |
 
