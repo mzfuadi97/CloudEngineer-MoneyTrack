@@ -5,8 +5,7 @@ Username dicoding: mzfuadi97
 | | Deskripsi |
 | ----------- | ----------- |
 | Masalah | Tantangan utama yang dihadapi oleh perusahaan dalam pengembangan Aplikasi Pencatatan Keuangan (Money Tracker App) adalah pengeluaran besar yang terkait dengan infrastruktur on-premise, termasuk pembelian dan perawatan server. Dalam rangka mengoptimalkan pengeluaran dan mengurangi biaya awal, perusahaan bermaksud melakukan migrasi ke Google Cloud untuk mengatasi permasalahan ini |
-| Arsitektur Aplikasi |
-Aplikasi yang dikembangkan memiliki spesifikasi seperti berikut:
+| Arsitektur Aplikasi | Aplikasi yang dikembangkan memiliki spesifikasi seperti berikut:
 
 - Front-End Web ditulis menggunakan PHP dengan framework CodeIgniter versi 3.1.10.
 - Back-End API ditulis menggunakan Node.js. |
